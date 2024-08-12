@@ -117,7 +117,7 @@ select:hover,
 .frameworks-list {
     font-weight: 400;
     font-size: 16px;
-    list-style-image: url(./solar_map-arrow-up-bold.svg);
+    list-style-image: url(./assets/Vector.svg);
     padding-left: 20px;
 }
 
